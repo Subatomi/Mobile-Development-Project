@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidProjectCollection</string>
+    <string name="title_name">Layout Exercise</string>
+    <string name="button_name">Button</string>
+    <string name="button_like">Like</string>
+    <string name="button_share">Share</string>
+    <string name="comment">Comment</string>
+    <string name="place_holder_1">Text View</string>
+    <string name="place_holder">Place Holder</string>
+
+    <string name="title_insta">TarnishedGram</string>
+    <string name="name1">Miquella</string>
+    <string name="name2">Melina</string>
+    <string name="name3">Tarnished</string>
+    <string name="name4">Godfrey</string>
+    <string name="name5">Yura</string>
+    <string name="name6">Godwyn</string>
+    <string name="name7">Ranni</string>
+    <string name="name8">Marika</string>
+
+</resources>
